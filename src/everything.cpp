@@ -12,7 +12,7 @@ template <int l> struct L {
 }
 template <> L<1-1>& L<1>::operator()(){throw _ ;%>
 
-main /??/
+int main /??/
 *p = new printf("42\n*??/
 //??/ 
 \
